@@ -13,9 +13,7 @@
           - [Affordable Modern Construction Website](https://affordable-modern-construction-development.vercel.app/)
           - [Car Rent Backend](https://tech-car-rent.onrender.com/api/docs/)
 
-- 🔭 Also i collaborated on [Klab-legal-tech project](Klab-Rwanda/legal-tech-frontend)
-
-- 💬 Ask me about **ReactJS,NodeJS,ExpressJS and MongoDB**
+- 💬 Ask me about **ReactJS,ReactNative,NodeJS,ExpressJS,MongoDB,PostGress,PHP and SEO**
 
 - 📫 How to reach me **dephaingabire@gmail.com**
 
