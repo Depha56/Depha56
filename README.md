@@ -4,8 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depha56&label=Profile%20views&color=0e75b6&style=flat" alt="depha56" /> </p>
 
 - 🌱 I’m currently learning **Python**
+  
+- 👯 I collaborate on [Lewen Tours Project,](https://github.com/lewentours/LewenTours) , [Car Rent Backend](https://github.com/TechSphereLabs/Car-rent-backend)
 
-- 👯 I collaborate on [Lewen Tours Project](https://github.com/lewentours/LewenTours)
+- 👯 The real project i have worked on :
+          - [Lewen Tours Project](https://www.lewentours.com/)
+          - [Invest In Rwanda Website](https://www.investin-rwanda.com/)
+          - [Affordable Modern Construction Website](https://affordable-modern-construction-development.vercel.app/)
+          - [Car Rent Backend](https://tech-car-rent.onrender.com/api/docs/)
 
 - 🔭 Also i collaborated on [Klab-legal-tech project](Klab-Rwanda/legal-tech-frontend)
 
